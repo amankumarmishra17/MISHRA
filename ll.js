@@ -4,7 +4,7 @@ function validate()
     var password=document.getElementById('password').value;
     if ( username=="Samir Kumar"&& password =="Kumar@123"||username =='Dilip Kumar Mishra' && password=="Kumar@123"||username=="Pawan Kumar" && password=="Kumar@123")
 {
-        window.open('https://amankumarmishra17.github.io/MISHRA/');
+        window.open('/MISHRA/index.html');
         return false;
 }
 else
